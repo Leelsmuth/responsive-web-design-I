@@ -438,3 +438,47 @@ h5 {
 .last-section.one {
   padding: 10px;
 }
+
+
+/* for services page */
+.navclass2 {
+    text-decoration: none;
+    padding: 20px;
+    color: black;
+    display: flex;
+  }
+  .logo2 {
+    align-self: stretch;
+  }
+  .first-div {
+    padding: 20px;
+  }
+  .second-div {
+    display: flex;
+    justify-content: space-between;
+  }
+  .secdiv {
+    padding: 10px;
+  }
+  .third-div {
+    display: flex;
+  }
+  .thrd-div {
+    padding: 10px;
+  }
+  .fourth-div {
+    display: flex;
+  }
+  .frth-div {
+    padding: 10px;
+  }
+  .fifth-div {
+    display: flex;
+  }
+  .fift-div {
+    padding: 20px;
+  }
+  .Copyright {
+    text-align: center;
+    padding-top: 40px;
+  }
