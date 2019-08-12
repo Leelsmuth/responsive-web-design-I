@@ -1,3 +1,86 @@
 /* Use your own code or past solution for Great Idea Web Page CSS here! */
-
+* {
+    box-sizing: border-box;
+    max-width: 900px;
+    max-height: 1200px;
+    /* just in case we need to remove */
+    margin: 0 auto;
+  }
+  .container {
+    background: none;
+  }
+  .navclass {
+    padding: 28px;
+    text-decoration: none;
+  }
+  .header {
+    padding: 20px;
+    margin: 20px;
+    display: flex;
+    font-size: 70px;
+    text-align: center;
+  }
+  .header.one {
+    display: flex;
+    flex-direction: column; 
+  }
+  .main-body {
+    padding: 20px;
+    margin: 20px;
+    display: flex;
+  }
+  .main-body.one {
+    display: flex;
+    flex-direction: column;
+  }
+  .main-body.two {
+    display: flex;
+    flex-direction: column;
+  }
+  .second-body {
+    display: flex;
+    padding: 20px;
+  }
+  .second-body.one {
+    display: flex;
+    flex-direction: column;
+  }
+  .second-body.two {
+    display: flex;
+    flex-direction: column;
+  }
+  .second-body.three {
+    display: flex;
+    flex-direction: column;
+  }
+  .copyright {
+    text-align: center;
+  }
+  .middle-img {
+    /* width: 85%; */
+    align-content: center;
+  }
+  .last-section.one {
+    padding: 10px;
+  }
+  .container2 {
+  }
+  .navclass2 {
+    text-decoration: none;
+    padding: 20px;
+    color: black;
+    display: flex;
+  }
+  .logo2 {
+    align-self: stretch;
+  }
+  .first-div {
+    padding: 20px;
+  }
+  .second-div {
+    display: flex;
+    justify-content: space-between;
+  }
+  .secdiv {
+    padding: 10px;
 
