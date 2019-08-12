@@ -374,6 +374,14 @@ h5 {
   font-size: 70px;
   text-align: center;
 }
+@media (max-width: 500px) {
+    .header {
+        padding: 20px;
+        margin: 20px;
+        display: flex;
+        font-size: 50px;
+        text-align: center;
+}
 .header.one {
   display: flex;
   flex-direction: column; 
